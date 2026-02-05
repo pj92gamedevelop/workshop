@@ -21,3 +21,5 @@ git push -u origin main (pushing from main branch to github)
 git remote -v (check that remote exist)
 
 git remote add origin to link local repo with github repo
+
+git clone and url to clone repository
